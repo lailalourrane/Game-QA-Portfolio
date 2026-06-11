@@ -24,8 +24,8 @@ The UI hierarchy and text containers should be elastic and responsive. They must
 Localized text overflows its designated container, overlaps with other text elements, and is pushed outside the visible screen area, rendering the terminal interface broken.
 
 ## 📸 Visual Evidence
-![Evidência do Bug](<img width="924" height="1060" alt="image2" src="https://github.com/user-attachments/assets/1c508ff3-02e7-483d-9c08-29487958923d" />)
-![Evidência do Bug](<img width="960" height="1079" alt="image1" src="https://github.com/user-attachments/assets/399f733e-d834-437f-a170-1cef27163b7f" />)
-![Evidência do Bug](<img width="990" height="1079" alt="image3" src="https://github.com/user-attachments/assets/10cea654-2fb9-4b24-b57a-f4d588a8fda6" />)
+<img width="924" height="1060" alt="image2" src="https://github.com/user-attachments/assets/1c508ff3-02e7-483d-9c08-29487958923d" />
+<img width="960" height="1079" alt="image1" src="https://github.com/user-attachments/assets/399f733e-d834-437f-a170-1cef27163b7f" />
+<img width="990" height="1079" alt="image3" src="https://github.com/user-attachments/assets/10cea654-2fb9-4b24-b57a-f4d588a8fda6" />
 
 
