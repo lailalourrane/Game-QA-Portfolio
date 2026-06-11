@@ -24,6 +24,8 @@ The UI hierarchy and text containers should be elastic and responsive. They must
 Localized text overflows its designated container, overlaps with other text elements, and is pushed outside the visible screen area, rendering the terminal interface broken.
 
 ## 📸 Visual Evidence
-<img src="https://cdn.discordapp.com/attachments/1429533649417539818/1508158997843153049/image.png?ex=6a2aef85&is=6a299e05&hm=20916c14832fc6e80f167679b0eb3e8986db59ebe9c1e5ac18815f1987f6a2ba&"
-"https://cdn.discordapp.com/attachments/1429533649417539818/1508158795677700106/image.png?ex=6a2aef55&is=6a299dd5&hm=0e730ec10ef2866e7d676a971a65567e0664c2845540d73e506aab87d8b4f3f8&"
-"https://cdn.discordapp.com/attachments/1429533649417539818/1508168423623098478/image.png?ex=6a2af84c&is=6a29a6cc&hm=74ec4f87e81caa983722ade32e0a8b5db6f4dbf367a82f6f377239176c56d956&">
+![Evidência do Bug](<img width="924" height="1060" alt="image2" src="https://github.com/user-attachments/assets/1c508ff3-02e7-483d-9c08-29487958923d" />)
+![Evidência do Bug](<img width="960" height="1079" alt="image1" src="https://github.com/user-attachments/assets/399f733e-d834-437f-a170-1cef27163b7f" />)
+![Evidência do Bug](<img width="990" height="1079" alt="image3" src="https://github.com/user-attachments/assets/10cea654-2fb9-4b24-b57a-f4d588a8fda6" />)
+
+
