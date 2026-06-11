@@ -12,8 +12,6 @@ The portfolio is structured cleanly by game titles. Each folder contains special
 
 ```text
 📂 Game-QA-Portfolio
- ┣ 📂 The-White-Door
- ┃ ┗ 📄 UI-Text-Overlap-Terminal.md
- ┣ 📂 The-Mermaid-Mask
- ┃ ┗ 📄 Icon-Desync-Bug.md
+ ┃ 📄 UI-Text-Overlap-Terminal.md
+ ┃ 📄 Icon-Desync-Bug.md
  ┗ 📄 README.md  <-- You are here
