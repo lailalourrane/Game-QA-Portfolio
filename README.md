@@ -6,12 +6,3 @@ My testing methodology blends technical analysis (Game Engines, Physics, and Mec
 
 ---
 
-## 📂 Repository Structure
-
-The portfolio is structured cleanly by game titles. Each folder contains specialized bug reports, clear steps to reproduce, and high-quality visual evidence:
-
-```text
-📂 Game-QA-Portfolio
- ┃ 📄 UI-Text-Overlap-Terminal.md
- ┃ 📄 Icon-Desync-Bug.md
- ┗ 📄 README.md  <-- You are here
