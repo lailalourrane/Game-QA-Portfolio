@@ -8,6 +8,6 @@ My testing methodology blends technical analysis (Game Engines, Physics, and Mec
 
 | Game Title | Category | Detailed Report |
 | :--- | :--- | :--- |
-| **The White Door** | UI/UX Layout / Localization QA (LQA) | [View Full Report](./The-White-Door/UI-Text-Overlap-Terminal.md) |
-| **The Mermaid Mask** | Interface Design / Component Desync | [View Full Report](./The-Mermaid-Mask/Icon-Desync-Bug.md) |
-| **Momento** | Localization QA (LQA) / String Concatenation | [View Full Report](./Momento/LQA-Translation-Spacing-Bugs.md) |
+| **The White Door** | UI/UX Layout / Localization QA (LQA)
+| **The Mermaid Mask** | Interface Design / Component Desync
+| **Momento** | Localization QA (LQA) / String Concatenation
