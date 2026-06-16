@@ -6,8 +6,8 @@ My testing methodology blends technical analysis (Game Engines, Physics, and Mec
 
 ---
 
-| Game Title | Category | Detailed Report |
-| :--- | :--- | :--- |
+| Game Title | Category |
+| :--- | :---|
 | **The White Door** | UI/UX Layout / Localization QA (LQA)
 | **The Mermaid Mask** | Interface Design / Component Desync
 | **Momento** | Localization QA (LQA) / String Concatenation
